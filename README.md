@@ -1,2 +1,6 @@
 # happy-gitting
-Try out git and all that
+
+## How to use this
+
+**bold**
+_italic_
