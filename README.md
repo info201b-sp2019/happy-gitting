@@ -7,6 +7,7 @@ _This text is in italics!_
 2. oranges
 3. tomatoes
 
+![kangaroo](standing-kangaroo.jpeg)
 `code text!`
 
 Try out git and all that
