@@ -1,4 +1,5 @@
 # Kayvon Tari
+## All gitters should be **happy!**
 ## That is my name!
 ### **Here's another title but in bold!**
 _This text is in italics!_
