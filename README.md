@@ -1,6 +1,7 @@
 # happy-gitting
 
-## How to use this
+## All gitters should be **happy!**
 
-**bold**
-_italic_
+... and watch Winnie the Pooh
+
+![roo](C:/users/ellys/documents/info201/happy-gitting/roo2.jgp)
