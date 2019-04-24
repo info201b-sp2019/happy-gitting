@@ -4,4 +4,4 @@
 
 ... and watch Winnie the Pooh
 
-![roo](C:/users/ellys/documents/info201/happy-gitting/roo2.jgp)
+![roo](roo2.jgp)
